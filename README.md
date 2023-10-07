@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/dreddstaysdead" target="blank"><img src="https://img.shields.io/twitter/follow/dreddstaysdead?logo=twitter&style=for-the-badge" alt="dreddstaysdead" /></a> </p>
 
-- 🔭 I’m currently working on [Terminal Game](https://github.com/dreddisdead/terminal-game.git)
+- 🔭 I’m currently working on [DearDiary](https://github.com/dreddisdead/DearDiary.git)
 
 - 🌱 I’m currently learning **Python, GitHub, and Computer Science**
 
