@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/dreddstaysdead" target="blank"><img src="https://img.shields.io/twitter/follow/dreddstaysdead?logo=twitter&style=for-the-badge" alt="dreddstaysdead" /></a> </p>
 
-- 🔭 I’m currently working on my website!
+- 🔭 I’m currently working on my [Cam's Cool Website](https://github.com/dreddisdead/cams-cool-website)!
 
 - 🌱 I’m currently learning **Python, JavaScript, and Game Development**
 
